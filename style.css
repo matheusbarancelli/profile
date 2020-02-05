@@ -1,0 +1,19 @@
+body {
+
+  background-color: #deddfa;
+  font-family: Lato;
+  color: black;
+  font-size: 15px;
+  line-height: 1.5;
+}
+
+a {
+  color: #21bf73;
+  text-decoration:;
+
+}
+
+a:hover {
+
+  color: #d45d79;
+}
